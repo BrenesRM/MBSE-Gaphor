@@ -1,0 +1,38 @@
+05. Structured Classifiers
+==================================================
+
+1. Structured Classifiers
+--------------------------------------------------
+
+.. diagram:: 1. Structured Classifiers
+   :model: uml
+
+2. Encapsulated Classifiers
+--------------------------------------------------
+
+.. diagram:: 2. Encapsulated Classifiers
+   :model: uml
+
+3. Classes
+--------------------------------------------------
+
+.. diagram:: 3. Classes
+   :model: uml
+
+4. Associations
+--------------------------------------------------
+
+.. diagram:: 4. Associations
+   :model: uml
+
+5. Components
+--------------------------------------------------
+
+.. diagram:: 5. Components
+   :model: uml
+
+6. Collaborations
+--------------------------------------------------
+
+.. diagram:: 6. Collaborations
+   :model: uml

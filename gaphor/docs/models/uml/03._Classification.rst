@@ -1,0 +1,32 @@
+03. Classification
+==================================================
+
+1. Classifiers
+--------------------------------------------------
+
+.. diagram:: 1. Classifiers
+   :model: uml
+
+3. Features
+--------------------------------------------------
+
+.. diagram:: 3. Features
+  :model: uml
+
+4. Properties
+--------------------------------------------------
+
+.. diagram:: 4. Properties
+   :model: uml
+
+5. Operations
+--------------------------------------------------
+
+.. diagram:: 5. Operations
+   :model: uml
+
+7. Instances
+--------------------------------------------------
+
+.. diagram:: 7. Instances
+   :model: uml

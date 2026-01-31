@@ -1,0 +1,8 @@
+08. State Machines
+==================================================
+
+1. Behavior State Machines
+--------------------------------------------------
+
+.. diagram:: 1. Behavior State Machines
+   :model: uml

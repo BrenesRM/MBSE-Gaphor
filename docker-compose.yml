@@ -1,0 +1,11 @@
+services:
+  gaphor:
+    build: .
+    ports:
+      - "6080:6080"
+    volumes:
+      - .:/app
+      - ./models:/root/models
+    environment:
+      - DISPLAY=:1
+    shm_size: '2gb'

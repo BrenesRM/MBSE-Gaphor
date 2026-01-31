@@ -1,0 +1,26 @@
+10. Actions
+==================================================
+
+1. Actions
+--------------------------------------------------
+
+.. diagram:: 1. Actions
+   :model: uml
+
+2. Invocation Actions
+--------------------------------------------------
+
+.. diagram:: 2. Invocation Actions
+   :model: uml
+
+7. Structural Feature Actions
+--------------------------------------------------
+
+.. diagram:: 7. Structural Feature Actions
+   :model: uml
+
+9. Accept Event Actions
+--------------------------------------------------
+
+.. diagram:: 9. Accept Event Actions
+   :model: uml

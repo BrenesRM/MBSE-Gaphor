@@ -1,0 +1,32 @@
+09. Activities
+==================================================
+
+1. Activities
+--------------------------------------------------
+
+.. diagram:: 1. Activities
+   :model: uml
+
+2. Control Nodes
+--------------------------------------------------
+
+.. diagram:: 2. Control Nodes
+   :model: uml
+
+3. Object Nodes
+--------------------------------------------------
+
+.. diagram:: 3. Object Nodes
+   :model: uml
+
+4. Executable Nodes
+--------------------------------------------------
+
+.. diagram:: 4. Executable Nodes
+   :model: uml
+
+5. Activity Groups
+--------------------------------------------------
+
+.. diagram:: 5. Activity Groups
+   :model: uml
