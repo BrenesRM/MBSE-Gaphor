@@ -1,0 +1,36 @@
+Act as a senior MBSE architect specialized in Capella (Arcadia methodology).
+
+Create a complete MBSE project structure to be used in Capella for an
+infrastructure automation platform based on:
+- VMware Aria Automation
+- vRealize Orchestrator (workflows and actions)
+- Service Broker (catalogs and UI forms)
+
+The system must integrate with:
+- vCenter
+- IPAM
+- Network services
+- F5 load balancers
+- Two datacenters (Datacenter A and Datacenter B)
+
+Apply and clearly align with the following standards and methodologies:
+- ISO/IEC/IEEE 42010 (architecture description, stakeholders, concerns, viewpoints)
+- ISO/IEC 15288 (system lifecycle processes)
+- Arcadia methodology (Operational Analysis, System Analysis, Logical Architecture, Physical Architecture)
+
+Deliverables required:
+1. A folder structure ready to be used as a Capella MBSE project
+2. Clear explanations of each Arcadia phase (OA, SA, LA, PA)
+3. Examples specific to VMware automation for each phase
+4. Traceability guidance from operational needs to physical implementation
+5. Reusable templates and procedures so the structure can be applied to other projects
+6. A README explaining how to use the project as an MBSE template
+7. Output packaged as a ZIP file
+
+The result must be:
+- Tool-agnostic at OA and SA levels
+- Logically structured at LA level
+- Fully mapped to real components at PA level
+- Suitable for enterprise-scale reuse and audits
+
+Use professional MBSE language, but keep explanations practical and implementation-oriented.
